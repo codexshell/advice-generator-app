@@ -1,0 +1,1 @@
+Write you work process installing and configuring husky.

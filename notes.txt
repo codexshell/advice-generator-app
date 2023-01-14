@@ -1,2 +1,0 @@
-Write you work process installing and configuring husky.
-Explain your process of setting up the default version of the project

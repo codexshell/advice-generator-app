@@ -53,7 +53,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Svelte](https://svelte.dev/) - JS library
+- [Preact](https://preactjs.com/) - JS library
 - [Astro](https://astro.build/) - Web framework
 - [tailwindcss](https://tailwindcss.com/) - CSS framework
 

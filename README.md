@@ -77,6 +77,7 @@ Using the fetch API, set up the configuration object to include the following pr
 
 - [How to define the node runtime version using a .nvmrc](https://stackoverflow.com/questions/57110542/how-to-write-a-nvmrc-file-which-automatically-change-node-version) - This helped me to setup a default runtime node version for each applications on an individual level. I really liked this pattern and will use it going forward.
 - [Deploy your Astro Site to Cloudflare Pages](https://docs.astro.build/en/guides/deploy/cloudflare/) - This is an amazing article which helped me to identify that Astro works best with node version 16.x.x
+- [How To Call Web APIs with the useEffect Hook in React](https://www.digitalocean.com/community/tutorials/how-to-call-web-apis-with-the-useeffect-hook-in-react) - The mentioned article was very helpful in setting up a functionality to run as soon as the component is mounted to the browser DOM
 
 ## Author
 

@@ -64,6 +64,10 @@ After configuring version control, next is to create a git hook that will allow 
 
 After completion commitlint was able to intercept my commits and lint them before allowing the process to complete. In the event of any violations, the commit would fail altogether with useful information on why so
 
+Firefox by design reuses request to the same API. The requests are stored in the cache. To alter this behavior, employ the use of the fetch API. An attempt was made with axios but was unsuccessful.
+
+Using the fetch API, set up the configuration object to include the following property `{cache: 'no-cache'}`
+
 ### Continued development
 
 - [Astro](https://astro.build/)

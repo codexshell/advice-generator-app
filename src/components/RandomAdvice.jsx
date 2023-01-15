@@ -6,7 +6,6 @@ import diceIcon from "../assets/icon-dice.svg";
 
 export default function RandomAdvice() {
   const [quote, setQuote] = useState({});
-  const [loading, setLoading] = useState(true);
   useEffect(async () => {
     getQuote().then((item) => {
       setQuote(item);

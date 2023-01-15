@@ -14,6 +14,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -80,3 +81,7 @@ After completion commitlint was able to intercept my commits and lint them befor
 - Website - [Silvanos Eric](https://codexshell.github.io/)
 - Frontend Mentor - [@codexshell](https://www.frontendmentor.io/profile/codexshell)
 - Twitter - [@codexshell](https://www.twitter.com/codexshell)
+
+## Acknowledgements
+
+- I would like to give a shout ou to [MoustaphaDev](https://github.com/MoustaphaDev) - Assisted with the issue of firefox caching api requests and thus reusing previous responses for subsequest requests
